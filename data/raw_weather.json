@@ -1,0 +1,280 @@
+[
+    {
+        "coord": {
+            "lon": -0.1257,
+            "lat": 51.5085
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 24.84,
+            "feels_like": 24.53,
+            "temp_min": 23.94,
+            "temp_max": 26.14,
+            "pressure": 1013,
+            "humidity": 44,
+            "sea_level": 1013,
+            "grnd_level": 1009
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.58,
+            "deg": 283,
+            "gust": 7.6
+        },
+        "clouds": {
+            "all": 1
+        },
+        "dt": 1785934198,
+        "sys": {
+            "type": 2,
+            "id": 2075535,
+            "country": "GB",
+            "sunrise": 1785904202,
+            "sunset": 1785958979
+        },
+        "timezone": 3600,
+        "id": 2643743,
+        "name": "London",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 139.6917,
+            "lat": 35.6895
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 26.93,
+            "feels_like": 29.06,
+            "temp_min": 25.37,
+            "temp_max": 28.24,
+            "pressure": 1011,
+            "humidity": 74,
+            "sea_level": 1011,
+            "grnd_level": 1010
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.89,
+            "deg": 79,
+            "gust": 4.02
+        },
+        "clouds": {
+            "all": 69
+        },
+        "dt": 1785934488,
+        "sys": {
+            "type": 2,
+            "id": 268105,
+            "country": "JP",
+            "sunrise": 1785873109,
+            "sunset": 1785922963
+        },
+        "timezone": 32400,
+        "id": 1850144,
+        "name": "Tokyo",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 77.2167,
+            "lat": 28.6667
+        },
+        "weather": [
+            {
+                "id": 500,
+                "main": "Rain",
+                "description": "light rain",
+                "icon": "10d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 30.17,
+            "feels_like": 35.46,
+            "temp_min": 30.17,
+            "temp_max": 30.17,
+            "pressure": 997,
+            "humidity": 70,
+            "sea_level": 997,
+            "grnd_level": 972
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.38,
+            "deg": 118,
+            "gust": 2.64
+        },
+        "rain": {
+            "1h": 0.68
+        },
+        "clouds": {
+            "all": 99
+        },
+        "dt": 1785934176,
+        "sys": {
+            "country": "IN",
+            "sunrise": 1785888871,
+            "sunset": 1785937187
+        },
+        "timezone": 19800,
+        "id": 1273294,
+        "name": "Delhi",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 2.3488,
+            "lat": 48.8534
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 28.59,
+            "feels_like": 28.46,
+            "temp_min": 27.81,
+            "temp_max": 29.65,
+            "pressure": 1017,
+            "humidity": 43,
+            "sea_level": 1017,
+            "grnd_level": 1007
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.75,
+            "deg": 243,
+            "gust": 7.01
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1785933889,
+        "sys": {
+            "type": 2,
+            "id": 66795,
+            "country": "FR",
+            "sunrise": 1785904143,
+            "sunset": 1785957850
+        },
+        "timezone": 7200,
+        "id": 2988507,
+        "name": "Paris",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 135.7538,
+            "lat": 35.0211
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 26.09,
+            "feels_like": 26.09,
+            "temp_min": 26.09,
+            "temp_max": 26.09,
+            "pressure": 1010,
+            "humidity": 70,
+            "sea_level": 1010,
+            "grnd_level": 984
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.76,
+            "deg": 98,
+            "gust": 5.38
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1785934697,
+        "sys": {
+            "type": 2,
+            "id": 197899,
+            "country": "JP",
+            "sunrise": 1785874133,
+            "sunset": 1785923829
+        },
+        "timezone": 32400,
+        "id": 1857910,
+        "name": "Kyoto",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 88.3697,
+            "lat": 22.5697
+        },
+        "weather": [
+            {
+                "id": 501,
+                "main": "Rain",
+                "description": "moderate rain",
+                "icon": "10n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 28.12,
+            "feels_like": 32.56,
+            "temp_min": 28.12,
+            "temp_max": 28.12,
+            "pressure": 1000,
+            "humidity": 81,
+            "sea_level": 1000,
+            "grnd_level": 1000
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.73,
+            "deg": 178,
+            "gust": 6.13
+        },
+        "rain": {
+            "1h": 1.78
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1785934283,
+        "sys": {
+            "country": "IN",
+            "sunrise": 1785886766,
+            "sunset": 1785933939
+        },
+        "timezone": 19800,
+        "id": 1275004,
+        "name": "Kolkata",
+        "cod": 200
+    }
+]
