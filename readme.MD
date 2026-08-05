@@ -11,3 +11,5 @@ Cleaned dataframe and added to cleanweather.csv
 Transformed data into the tables with sqlite(sqlAlchemy) db.py
 
 Connected database with sql engine to get desired result wrote one example querys
+
+Added more example queries next step is not much required but i am going to make simple report csv 
