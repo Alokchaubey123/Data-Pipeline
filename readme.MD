@@ -1,3 +1,5 @@
 made .env file to store Api key 
 
-sFetched weather data from the OpenWeather API.
+Fetched weather data from the OpenWeather API.
+
+Fetched data from Api and stored it in raw_weather,json file
