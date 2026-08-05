@@ -2,11 +2,11 @@ made .env file to store Api key
 
 Fetched weather data from the OpenWeather API.
 
-Fetched data from Api and stored it in raw_weather,json file
+Fetched data from Api(RESTAPI) and stored it in raw_weather,json file
 
 Created Data frame for each city
 
-Cleaned dataframe and added to cleanweather.csv
+Cleaned dataframe and added to cleanweather.csv using (PANDAS)
 
 Transformed data into the tables with sqlite(sqlAlchemy) db.py
 
