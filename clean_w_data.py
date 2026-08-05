@@ -7,8 +7,6 @@ def main():
     with open("data/raw_weather.json", "r") as file:
         weather_data = json.load(file)
 
-    print(f"Loaded {len(weather_data)} records")
-
     data = []
     for item in weather_data:
 
@@ -28,6 +26,25 @@ def main():
         })#all this data is present in .json file, some points are extracted 
     df = pd.DataFrame(data)
     print(df)
+
+    print("\nCleaning data started")
+
+    df["timestamp"] = pd.to_datetime(df["timestamp"], unit="s")
+
+    df["temperature"] = df["temperature"].round(1)
+    df["feels_like"] = df["feels_like"].round(1)
+    df["temp_min"] = df["temp_min"].round(1)
+    df["temp_max"] = df["temp_max"].round(1)
+
+    df = df.dropna()
+    df = df.drop_duplicates()
+    df = df.sort_values("city")
+
+    output_file = "data/clean_weather.csv"
+
+    df.to_csv(output_file, index=False)
+    print(df.head())
+
 
 if __name__ == "__main__":
     main()

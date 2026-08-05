@@ -1,0 +1,7 @@
+city,country,temperature,feels_like,temp_min,temp_max,humidity,pressure,wind_speed,weather,description,timestamp
+Delhi,IN,30.2,35.5,30.2,30.2,70,997,2.38,Rain,light rain,2026-08-05 12:49:36
+Kolkata,IN,28.1,32.6,28.1,28.1,81,1000,3.73,Rain,moderate rain,2026-08-05 12:51:23
+Kyoto,JP,26.1,26.1,26.1,26.1,70,1010,1.76,Clear,clear sky,2026-08-05 12:58:17
+London,GB,24.8,24.5,23.9,26.1,44,1013,3.58,Clear,clear sky,2026-08-05 12:49:58
+Paris,FR,28.6,28.5,27.8,29.6,43,1017,4.75,Clear,clear sky,2026-08-05 12:44:49
+Tokyo,JP,26.9,29.1,25.4,28.2,74,1011,0.89,Clouds,broken clouds,2026-08-05 12:54:48
